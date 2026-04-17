@@ -1,4 +1,4 @@
-package com.Security.SpringSecurity;
+package com.Security.SpringSecurity.model;
 
 public class Student {
     private int id;
